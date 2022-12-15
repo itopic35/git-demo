@@ -1,5 +1,5 @@
 # Markdown vježba
-Ovo je dokument :memo: koji prezentira moj C++ kod :grinning:
+Ovo je dokument :memo: koji prezentira moj c++ kod :grinningface:
 # Program
 ```cpp
 #include  <iostream>
@@ -23,7 +23,7 @@ int main() {
 
 # TODO
 Todo lista za nadopunu programa:
--[x] Ispisati poruku za unos broja
--[x] Omogućiti unos broja
+[x] Ispisati poruku za unos broja
+[x] Omogućiti unos broja
 Provjeriti je li broj troznamenkast
 Ispisati sumu znamenki broja

@@ -27,3 +27,5 @@ Todo lista za nadopunu programa:
 [x] Omogućiti unos broja
 Provjeriti je li broj troznamenkast
 Ispisati sumu znamenki broja
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>

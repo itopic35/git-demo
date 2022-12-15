@@ -1,5 +1,5 @@
 # Markdown vježba
-Ovo je dokument :memo: koji prezentira moj c++ kod :grinningface:
+Ovo je dokument :memo: koji prezentira moj c++ kod :grinning:
 # Program
 ```cpp
 #include  <iostream>
@@ -23,9 +23,7 @@ int main() {
 
 # TODO
 Todo lista za nadopunu programa:
-[x] Ispisati poruku za unos broja
-[x] Omogućiti unos broja
-Provjeriti je li broj troznamenkast
-Ispisati sumu znamenki broja
-
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+- [x] Ispisati poruku za unos broja
+- [x] Omogućiti unos broja
+- [] Provjeriti je li broj troznamenkast
+- [] Ispisati sumu znamenki broja

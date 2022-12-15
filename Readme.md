@@ -1,5 +1,5 @@
 # Markdown vježba
-Ovo je dokument :memo: koji prezentira moj c++ kod :grinningface:
+Ovo je dokument :memo: koji prezentira moj c++ kod :grinning face:
 # Program
 ```cpp
 #include  <iostream>

@@ -27,3 +27,6 @@ Todo lista za nadopunu programa:
 - [x] Omogućiti unos broja
 - [] Provjeriti je li broj troznamenkast
 - [] Ispisati sumu znamenki broja
+
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>

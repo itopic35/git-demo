@@ -1,9 +1,5 @@
-Ovo je naš Readme
-
-<p style="color:red">Ovo je paragraf</p>
-
 # Markdown vježba
-Ovo je dokument :memo: koji prezentira moj c++ kod :Grinning Face with Big Eyes:
+Ovo je dokument :memo: koji prezentira moj c++ kod :Grinning Face:
 # Program
 ```cpp
 #include  <iostream>

@@ -16,7 +16,7 @@ int main() {
 ```
 
 # Pokretanje programa
- - Preuzmite ![DevCpp] (https://sourceforge.net/projects/orwelldevcpp/)
+ - Preuzmite [DevCpp] (https://sourceforge.net/projects/orwelldevcpp/)
  - Kreirajte novu datoteku i kopirajte kod unutra
 - Prevedite
 - Pokrenite

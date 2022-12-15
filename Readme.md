@@ -1,5 +1,5 @@
 # Markdown vježba
-Ovo je dokument :memo: koji prezentira moj c++ kod ::D:
+Ovo je dokument :memo: koji prezentira moj c++ kod :grinning face:
 # Program
 ```cpp
 #include  <iostream>
@@ -16,7 +16,7 @@ int main() {
 ```
 
 # Pokretanje programa
- - Preuzmite [DevCpp] (https://sourceforge.net/projects/orwelldevcpp/)
+ - Preuzmite [DevCpp](https://sourceforge.net/projects/orwelldevcpp/)
  - Kreirajte novu datoteku i kopirajte kod unutra
 - Prevedite
 - Pokrenite
@@ -27,5 +27,3 @@ Todo lista za nadopunu programa:
 -[x] Omogućiti unos broja
 Provjeriti je li broj troznamenkast
 Ispisati sumu znamenki broja
-
-[Povratak na vrh] (#)
